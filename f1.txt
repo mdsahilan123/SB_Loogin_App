@@ -1,3 +1,0 @@
-This is f1 file data..
-
-This is second line data
